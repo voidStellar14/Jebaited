@@ -9,6 +9,52 @@ public class jebaited1
     public static void main( String[] args )
   	
     {
+        try {
+            Thread.sleep (1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("jebaiting       [#######...............]");
+        
+        try {
+            Thread.sleep (1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("jebaiting       [#############.........]");
+        
+        try {
+            Thread.sleep (1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("jebaiting       [###################...]");
+        
+        try {
+            Thread.sleep (1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("jebaiting       [#####################.]");
+        
+        try {
+            Thread.sleep (3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
+        System.out.println("jebaiting       [######################]");
+        
+        try {
+            Thread.sleep (1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        
         System.out.println("you just got jebaited");
     	/**
          * prints "jebaited" infinitely
@@ -20,7 +66,7 @@ public class jebaited1
         }
         for(int i = 0; i > -1; i++)
         {
-            System.out.println("jjjjjebaited");
+            System.out.println("jebaited");
            
         }
     }
