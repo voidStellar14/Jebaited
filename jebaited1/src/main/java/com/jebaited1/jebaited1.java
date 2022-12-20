@@ -3,7 +3,7 @@ public class jebaited1
 {
     /**
      * @author voidStellar14
-     * @version 1.3
+     * @version 1.0.4
      */
     
     public static void main( String[] args )
